@@ -1,3 +1,5 @@
+TO VIEW ASSIGNMENT, NAVIAGATE TO https://milkshake-exercise-2-tc.netlify.app/
+
 # Milkshake Studio Front-end Exercise
 
 **The following excersice is meant for Milkshake Studio interview purposes.  It is not to be shared with outside parties.**
@@ -39,8 +41,6 @@ Specifications for the editable are listed below as user stories:
 
 
 Please work from this directory, and share your implementation. Instructions should be added to this README file that allow us to take your code, run the application, and evaluate your work. Code should be annotated where sensible.
-
-To view navigate to
 
 -- 
 
